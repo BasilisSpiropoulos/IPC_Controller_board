@@ -18,3 +18,11 @@
 |                                                          |         The same as the file IPC_Controller_PCB_layers_evaluation.pdf                                          |
 |                                                          |         but with the groundplanes on Top layer and Botom layer removed.                                        |
 |                                                          |                                                                                                                |
+
+
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**.
+
+You are free to share the work, but you may not modify or use it commercially. For more details, see the full license in the `LICENSE` file or visit: [CC BY-NC-ND 4.0 License](https://creativecommons.org/licenses/by-nc-nd/4.0/)

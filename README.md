@@ -1,4 +1,4 @@
-# IPC Controller schematics and PCB files  
+# IPC Controller board schematics and PCB layout files  
 
 |   Folder    |                                    Contents                                                  |
 |-------------|----------------------------------------------------------------------------------------------|

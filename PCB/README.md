@@ -2,7 +2,7 @@
 
 |                          File                            |                                              Contents                                                                                            |
 |----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
-| IPC_Controller_PCB_layers_prints.pdf                     | PDF file containing the basic PCB layers for building the Instrument Panel Cluster Controller board at home.                                     |
+| IPC_Controller_PCB_layers_prints.pdf                     | PDF file containing PCB layout diagrams of the basic layers for building the Instrument Panel Cluster Controller board at home.                  |
 |                                                          |         page 1 : Top layer (copper)                                                                                                              |
 |                                                          |         page 2 : Bottom layer (copper)                                                                                                           |
 |                                                          |         page 3 : Top overlay (silkscreen)                                                                                                        |

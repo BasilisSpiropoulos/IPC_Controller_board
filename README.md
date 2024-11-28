@@ -1,10 +1,11 @@
 # IPC Controller schematics and PCB files  
 
-|   Folder    |                                    Contents                                             |
-|-------------|-----------------------------------------------------------------------------------------|
-| schematics  | PDF file containing schematic diagrams of the Instrument Panel Cluster Controller board |
-| PCB         | PDF files containing PCB files of the Instrument Panel Cluster Controller board         |
-| PCB_3D_view | PDF files that show the PCB of the Instrument Panel Cluster Controller board in 3D      |
+|   Folder    |                                    Contents                                                  |
+|-------------|----------------------------------------------------------------------------------------------|
+| schematics  | PDF file containing the schematic diagrams of the Instrument Panel Cluster Controller board. |
+| BOM         | PDF file containing the Bill Of Materials for the Instrument Panel Cluster Controller board. |
+| PCB         | PDF files containing PCB layout diagrams of the Instrument Panel Cluster Controller board.   |
+| PCB_3D_view | PDF files showing the 3D view of the PCB for the Instrument Panel Cluster Controller board.  |
 
 
 
